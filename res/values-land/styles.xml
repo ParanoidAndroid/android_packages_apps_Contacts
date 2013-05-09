@@ -27,5 +27,6 @@
 
     <style name="FragmentActionBarPadding">
         <item name="android:paddingBottom">0dp</item>
+        <item name="android:paddingTop">0dp</item>
     </style>
 </resources>
